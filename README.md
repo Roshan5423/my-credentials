@@ -12,3 +12,6 @@ This Course Covers Importance of Communication | Process of Communication | Barr
 
 Interview Skills - 
 This Course Covers Objectives | Process before the Interview | Process during the Interview | Process after the Interview
+
+Big Data Certifications from Trendytech -
+Big Data - The Big Picture | Distributed Storage and Data Lake | Distributed Processing and Fundamentals | Apache Spark Core APIs | Spark Higher Level APIs | Spark Dataframe Transformations | Apache spark Caching In-Depth | Spark Architecture & Aggregate Functions | Spark Internals & Dataframe Partitions | Spark Optimizations & Performance Tuning 1 | Spark Optimizations & Performance Tuning 2 | Apache Spark Project - Agile Methodology & Data Cleaning | Apache Spark Project - Implementation with Best Practices | GIT GITHUB & CICD | Apache Hive
