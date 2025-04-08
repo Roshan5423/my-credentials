@@ -15,3 +15,17 @@ This Course Covers Objectives | Process before the Interview | Process during th
 
 Big Data Certifications from Trendytech -
 Big Data - The Big Picture | Distributed Storage and Data Lake | Distributed Processing and Fundamentals | Apache Spark Core APIs | Spark Higher Level APIs | Spark Dataframe Transformations | Apache spark Caching In-Depth | Spark Architecture & Aggregate Functions | Spark Internals & Dataframe Partitions | Spark Optimizations & Performance Tuning 1 | Spark Optimizations & Performance Tuning 2 | Apache Spark Project - Agile Methodology & Data Cleaning | Apache Spark Project - Implementation with Best Practices | GIT GITHUB & CICD | Apache Hive
+
+TCS NQT Marksheet – November 2024
+This repository contains my official TCS National Qualifier Test (NQT) mark sheet.
+
+🟢 Overall Score: 69.59%
+🟡 Foundation Section: 80.5%
+🔵 Hands-on Python Programming: 329.22 / 600
+
+About the Exam
+TCS NQT evaluates candidates on:
+Aptitude (Quantitative, Verbal, Logical)
+Programming Logic
+Hands-on Coding Skills
+My performance in the exam reflects my focus on Python programming and core problem-solving abilities.
